@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="ghost_theme" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Ghost Theme</name>
+	<description>A conversion of Ghost's default admin theme to Symphony CMS.</description>
+	<repo type="github">https://github.com/brockpetrie/ghost_theme</repo>
+	<url type="discuss"></url>
+	<types>
+		<type>Interface</type>
+	</types>
+	<authors>
+		<author>
+			<name github="brockpetrie" symphony="brockpetrie">Brock Petrie</name>
+			<website>http://www.brockpetrie.com</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2013-10-16" min="2.3.x">
+			<![CDATA[- Initial commit]]>
+		</release>
+	</releases>
+</extension>
